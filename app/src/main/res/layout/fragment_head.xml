@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.manel.tp1ex2.Fragments.HeadFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF9800"
+        android:src="@drawable/head"
+        app:srcCompat="@drawable/head"
+        tools:srcCompat="@drawable/head" />
+
+</FrameLayout>
